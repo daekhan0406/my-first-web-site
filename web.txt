@@ -1,0 +1,25 @@
+
+[속성 Attibute]
+<img src="coding.jpg" width="100%">
+
+<parent>
+	<child></child>
+</parent>
+
+1. 목차만들기
+- 부모자식 관계 스터디
+- 목록-list ==> li tag
+<ul></ul>	: unordered List 의 약자
+<ol></ol>	: Ordered List 의 약자, 자동으로 번호 넘버링 추가함
+
+2. <a> 	a : anchor
+- 링크
+- href="www.xxx"
+- target="_blank" : 새창
+- title="html"	: 툴팁
+
+3. 웹의역사
+
+[2023.7.6]
+인터넷을 여는 열쇠 : 서버와 클라이언트
+
